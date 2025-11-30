@@ -1,4 +1,5 @@
 File log yang saya gunakan adalah file log bermain game BOKURA (game multiplayer di STEAM). Di game ini, jaringan harus sangat stabil agar game-nya dapat berjalan dengan lancar. Saya memvisualisasikan log ini menggunakan Streamlit.
+
 <img width="512" height="512" alt="bokura" src="https://github.com/user-attachments/assets/d5129c7e-26c7-4c2e-b803-e31b1e7b0a22" />
 
 Game online merupakan permainan digital yang dimainkan dalam suatu jaringan, baik melalui local arena network (LAN) maupun internet. Srinadi mengatakan bahwa game online dapat dimainkan oleh multipemain (multiplayer) yang memanfaatkan jaringan internet (yosua rompas). Game online yang memungkinkan multiplayer dapat mendorong terjadinya interaksi sosial, kerja tim, dan komunitas di antara para pemainnya (Nikhar, Deharkar, & Jiwane, 2024).
